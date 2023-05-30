@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+    color: white;
+    background-color: black;
+    text-decoration: underline;
+}
+h2{
+    text-align: center;
+}
+ 
+h3{
+    text-align: center;
+    font-weight: bold;
+}
+p {
+    text-align: center;
+}
+ul{
+    border: 1px solid black; 
+}
+img{
+    width: 200px;
+    height: 200px;
+}
